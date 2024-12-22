@@ -1,2 +1,2 @@
-# Scheme-PLUS
+# Scheme+
 Scheme+ implementations
