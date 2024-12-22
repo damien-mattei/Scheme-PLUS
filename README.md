@@ -2,7 +2,7 @@
 
 # Scheme+
 
-Author: Damien MATTE
+Author: Damien MATTEI
 
 Scheme+ implementations:
 
