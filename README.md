@@ -1,10 +1,10 @@
 ![Scheme+ by Damien Mattei](https://github.com/damien-mattei/Scheme-PLUS-for-Guile/blob/main/Scheme%2Bio_fichiers/Scheme%2B.png)
 
-# Scheme+\
+# Scheme+
 
-Author: Damien MATTE\
+Author: Damien MATTE
 
-Scheme+ implementations:\
+Scheme+ implementations:
 
 [SRFI-105 Curly Infix for Racket](https://github.com/damien-mattei/SRFI-105-for-Racket)\
 [Scheme+ for Racket](https://github.com/damien-mattei/Scheme-PLUS-for-Racket)\
