@@ -16,6 +16,14 @@ Scheme+ implementations:
 [Scheme+ for Kawa](https://github.com/damien-mattei/Scheme-PLUS-for-Kawa)
 
 
+Highlight syntax for Emacs and Aquamacs, add this to your config file:
+
+```
+(font-lock-add-keywords 'scheme-mode
+  '(("\\<\\(todo\\)" 1 font-lock-warning-face prepend)
+    ("\\<\\(define\\|def\\|return\\|<-\\|condx\\|then\\|else\\)\\>" . font-lock-keyword-face)))
+```
+
 
 
 
