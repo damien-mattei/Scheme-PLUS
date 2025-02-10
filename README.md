@@ -18,7 +18,7 @@ Scheme+ implementations:
 
 Highlight syntax for Emacs and Aquamacs, add this to your config file:
 
-```
+```lisp
 (font-lock-add-keywords 'scheme-mode
   '(("\\<\\(todo\\)" 1 font-lock-warning-face prepend)
     ("\\<\\(define\\|def\\|return\\|<-\\|condx\\|then\\|else\\)\\>" . font-lock-keyword-face)))
