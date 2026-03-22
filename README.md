@@ -26,6 +26,12 @@ Highlight syntax for Emacs and Aquamacs, add this to your config file:
 ```
 
 
+![Scheme+ schema](https://github.com/damien-mattei/Scheme-PLUS/blob/main/doc/images/schema-scheme%2B.jpg "Scheme+ schema")
+
+<br>
+<br>
+
+![Scheme+ schema](https://github.com/damien-mattei/Scheme-PLUS/blob/main/doc/images/infix-with-precedence-to-prefix-V7.jpg "Scheme+ infix with precedence to prefix schema")
 
 
 
