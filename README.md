@@ -15,7 +15,9 @@ or install as Racket packages:
 [Curly Infix reader via package manager](https://pkgs.racket-lang.org/package/curly-infix)\
 [Scheme+ for Racket via package manager](https://pkgs.racket-lang.org/package/Scheme-PLUS-for-Racket)
 
-Scheme+ implementations:
+<br>
+
+Full list of Scheme+ implementations and Infix (Prefix,Postfix) parsers:
 
 [SRFI-105 Curly Infix for Racket](https://github.com/damien-mattei/SRFI-105-for-Racket)\
 [Scheme+ for Racket](https://github.com/damien-mattei/Scheme-PLUS-for-Racket)\
