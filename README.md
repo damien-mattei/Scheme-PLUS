@@ -4,6 +4,17 @@
 
 Author: Damien MATTEI
 
+TL;DR:
+
+Download,clone:
+
+[Curly Infix reader (works also for prefix and postfix)](https://github.com/damien-mattei/curly-infix)\
+[Scheme+ for Racket](https://github.com/damien-mattei/Scheme-PLUS-for-Racket)
+
+or install as Racket packages:
+[Curly Infix reader via package manager](https://pkgs.racket-lang.org/package/curly-infix)\
+[Scheme+ for Racket via package manager](https://pkgs.racket-lang.org/package/Scheme-PLUS-for-Racket)
+
 Scheme+ implementations:
 
 [SRFI-105 Curly Infix for Racket](https://github.com/damien-mattei/SRFI-105-for-Racket)\
